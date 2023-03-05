@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\testC#\testC#\bin\Debug\testC#.exe.config
+C:\Users\user\Desktop\testC#\testC#\bin\Debug\testC#.exe
+C:\Users\user\Desktop\testC#\testC#\bin\Debug\testC#.pdb
+C:\Users\user\Desktop\testC#\testC#\obj\Debug\ClassAndList.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\testC#\testC#\obj\Debug\ClassAndList.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\testC#\testC#\obj\Debug\testC_.Properties.Resources.resources
+C:\Users\user\Desktop\testC#\testC#\obj\Debug\ClassAndList.csproj.GenerateResource.cache
+C:\Users\user\Desktop\testC#\testC#\obj\Debug\ClassAndList.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\testC#\testC#\obj\Debug\testC#.exe
+C:\Users\user\Desktop\testC#\testC#\obj\Debug\testC#.pdb
+C:\Users\user\Desktop\testC#\testC#\obj\Debug\ClassAndList.Form1.resources

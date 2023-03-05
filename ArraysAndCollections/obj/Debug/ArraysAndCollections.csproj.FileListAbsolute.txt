@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\testC#\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe.config
+C:\Users\user\Desktop\testC#\ArraysAndCollections\bin\Debug\ArraysAndCollections.exe
+C:\Users\user\Desktop\testC#\ArraysAndCollections\bin\Debug\ArraysAndCollections.pdb
+C:\Users\user\Desktop\testC#\ArraysAndCollections\obj\Debug\ArraysAndCollections.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\testC#\ArraysAndCollections\obj\Debug\ArraysAndCollections.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\testC#\ArraysAndCollections\obj\Debug\ArraysAndCollections.Form1.resources
+C:\Users\user\Desktop\testC#\ArraysAndCollections\obj\Debug\ArraysAndCollections.Properties.Resources.resources
+C:\Users\user\Desktop\testC#\ArraysAndCollections\obj\Debug\ArraysAndCollections.csproj.GenerateResource.cache
+C:\Users\user\Desktop\testC#\ArraysAndCollections\obj\Debug\ArraysAndCollections.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\testC#\ArraysAndCollections\obj\Debug\ArraysAndCollections.exe
+C:\Users\user\Desktop\testC#\ArraysAndCollections\obj\Debug\ArraysAndCollections.pdb

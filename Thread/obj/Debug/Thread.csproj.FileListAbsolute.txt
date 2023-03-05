@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\testC#\Thread\bin\Debug\Thread.exe.config
+C:\Users\user\Desktop\testC#\Thread\bin\Debug\Thread.exe
+C:\Users\user\Desktop\testC#\Thread\bin\Debug\Thread.pdb
+C:\Users\user\Desktop\testC#\Thread\obj\Debug\Thread.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\testC#\Thread\obj\Debug\Thread.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\testC#\Thread\obj\Debug\Thread.Form1.resources
+C:\Users\user\Desktop\testC#\Thread\obj\Debug\Thread.Properties.Resources.resources
+C:\Users\user\Desktop\testC#\Thread\obj\Debug\Thread.csproj.GenerateResource.cache
+C:\Users\user\Desktop\testC#\Thread\obj\Debug\Thread.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\testC#\Thread\obj\Debug\Thread.exe
+C:\Users\user\Desktop\testC#\Thread\obj\Debug\Thread.pdb
+C:\Users\user\Desktop\testC#\Thread\obj\Debug\Threading.Form1.resources

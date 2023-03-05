@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\testC#\ComAndModbus\bin\Debug\ComAndModbus.exe.config
+C:\Users\user\Desktop\testC#\ComAndModbus\bin\Debug\ComAndModbus.exe
+C:\Users\user\Desktop\testC#\ComAndModbus\bin\Debug\ComAndModbus.pdb
+C:\Users\user\Desktop\testC#\ComAndModbus\obj\Debug\ComAndModbus.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\testC#\ComAndModbus\obj\Debug\ComAndModbus.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\testC#\ComAndModbus\obj\Debug\ComAndModbus.Properties.Resources.resources
+C:\Users\user\Desktop\testC#\ComAndModbus\obj\Debug\ComAndModbus.csproj.GenerateResource.cache
+C:\Users\user\Desktop\testC#\ComAndModbus\obj\Debug\ComAndModbus.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\testC#\ComAndModbus\obj\Debug\ComAndModbus.exe
+C:\Users\user\Desktop\testC#\ComAndModbus\obj\Debug\ComAndModbus.pdb
+C:\Users\user\Desktop\testC#\ComAndModbus\obj\Debug\ComAndModbus.Form1.resources

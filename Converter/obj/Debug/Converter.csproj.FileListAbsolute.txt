@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\testC#\Converter\obj\Debug\Converter.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\testC#\Converter\obj\Debug\Converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\testC#\Converter\obj\Debug\Converter.Form1.resources
+C:\Users\user\Desktop\testC#\Converter\obj\Debug\Converter.Properties.Resources.resources
+C:\Users\user\Desktop\testC#\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+C:\Users\user\Desktop\testC#\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\testC#\Converter\bin\Debug\Converter.exe.config
+C:\Users\user\Desktop\testC#\Converter\bin\Debug\Converter.exe
+C:\Users\user\Desktop\testC#\Converter\bin\Debug\Converter.pdb
+C:\Users\user\Desktop\testC#\Converter\obj\Debug\Converter.exe
+C:\Users\user\Desktop\testC#\Converter\obj\Debug\Converter.pdb
